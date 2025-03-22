@@ -63,10 +63,3 @@ This simulator supports research in green laser annealing technology for SiC sem
 - Analyzing temperature profiles at material interfaces
 - Comparing different annealing conditions for dopant activation
 
-## License
-
-[Specify your license here]
-
-## Contact
-
-[Your contact information] 
